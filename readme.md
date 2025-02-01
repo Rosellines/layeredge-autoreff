@@ -12,7 +12,7 @@ This bot automates the process of creating accounts and using referral codes for
 ## Requirements
 
 - Node.js v18.20.6 LTS [Download](https://nodejs.org/dist/v18.20.6/node-v18.20.6-x64.msi).
-- Account Layer Edge https://dashboard.layeredge.io/
+- Account Layer Edge https://dashboard.layeredge.io/yx3LucVG
 
 ## Installation
 
